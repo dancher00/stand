@@ -1,0 +1,160 @@
+header: 
+  seq: 314
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.023087748076981173, -0.37023994055835446, -1.145708671021081]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 200000000
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.023087747914597383, -0.37023994417982176, -1.1457086782794195]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 100000000
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.05167583757659934, 0.09302718121769328, -0.21812775835154039]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 400000000
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.05167583753903292, 0.09302718122521295, -0.21812775833475542]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 300000000
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.0516758378198045, 0.09302718133196322, -0.21812775825004005]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 200000000
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.051675843993901065, 0.09302716948144774, -0.21812779053379408]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs:  99999999
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.023087754537705858, -0.37023991958314356, -1.1457086288306537]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 300000000
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: 
+  - Revolute_4
+  - Revolute_6
+  - Revolute_8
+points: 
+  - 
+    positions: [0.023087748066934078, -0.37023994069955546, -1.1457086713037445]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 200000000
+---

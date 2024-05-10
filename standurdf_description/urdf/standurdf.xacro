@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<robot name="standurdf" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+<xacro:include filename="$(find standurdf_description)/urdf/materials.xacro" />
+<xacro:include filename="$(find standurdf_description)/urdf/standurdf.trans" />
+<xacro:include filename="$(find standurdf_description)/urdf/standurdf.gazebo" />
+<link name="base_link">
+  <inertial>
+    <origin xyz="-0.04993283990385486 -1.2485856833231065e-06 0.32777940550345497" rpy="0 0 0"/>
+    <mass value="1.3539398564919305"/>
+    <inertia ixx="0.158717" iyy="0.139463" izz="0.059953" ixy="0.0" iyz="-0.0" ixz="-0.003898"/>
+  </inertial>
+  <visual>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="stand_1">
+  <inertial>
+    <origin xyz="-0.04711140442242398 -0.14835025886868589 -0.25592685688355593" rpy="0 0 0"/>
+    <mass value="6.746146118321337"/>
+    <inertia ixx="1.108691" iyy="1.056648" izz="0.540078" ixy="-0.0" iyz="-0.0" ixz="0.030554"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.05051 -0.148349 -0.592463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/stand_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.05051 -0.148349 -0.592463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/stand_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="sliders_1">
+  <inertial>
+    <origin xyz="-0.03549939072942444 -0.18838363233456723 0.035262840838934106" rpy="0 0 0"/>
+    <mass value="1.4045200246051899"/>
+    <inertia ixx="0.026065" iyy="0.002563" izz="0.026446" ixy="0.0" iyz="1.8e-05" ixz="-0.0"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.02051 -0.148349 -0.103463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/sliders_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.02051 -0.148349 -0.103463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/sliders_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="motor1_1">
+  <inertial>
+    <origin xyz="-0.02897157915891182 0.010471705519231406 -0.029962265253538428" rpy="0 0 0"/>
+    <mass value="0.538948902588542"/>
+    <inertia ixx="0.000345" iyy="0.000582" izz="0.000334" ixy="-2e-06" iyz="1e-06" ixz="-5e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.014712 0.110456 -0.168161" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor1_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.014712 0.110456 -0.168161" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor1_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="hip_1">
+  <inertial>
+    <origin xyz="0.0007966074993000401 0.08585145023378521 -5.581977734694932e-05" rpy="0 0 0"/>
+    <mass value="0.45218751894155"/>
+    <inertia ixx="0.001935" iyy="0.000455" izz="0.00161" ixy="-2e-06" iyz="2e-06" ixz="-1e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.014986 0.082656 -0.138463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/hip_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.014986 0.082656 -0.138463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/hip_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="motor2_1">
+  <inertial>
+    <origin xyz="0.010471668773329395 0.00026374143224657497 -0.04272706867994838" rpy="0 0 0"/>
+    <mass value="0.538948990629328"/>
+    <inertia ixx="0.000582" iyy="0.000334" izz="0.000345" ixy="-1e-06" iyz="-5e-06" ixz="2e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.021936 -0.008015 -0.180463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor2_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.021936 -0.008015 -0.180463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor2_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="bedro_1">
+  <inertial>
+    <origin xyz="0.05095953513133544 -0.07128582042188539 -0.02369136163910157" rpy="0 0 0"/>
+    <mass value="2.062424129199815"/>
+    <inertia ixx="0.022876" iyy="0.005508" izz="0.02013" ixy="0.001822" iyz="-0.005526" ixz="0.000595"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.005864 -0.008015 -0.138463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/bedro_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.005864 -0.008015 -0.138463" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/bedro_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="motor3_1">
+  <inertial>
+    <origin xyz="-0.014728332364141922 0.013476024071156861 -0.040282890041276415" rpy="0 0 0"/>
+    <mass value="0.538948991103864"/>
+    <inertia ixx="0.000582" iyy="0.000338" izz="0.000341" ixy="-2e-06" iyz="-7e-06" ixz="1e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.085764 0.261641 -0.094308" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor3_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.085764 0.261641 -0.094308" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/motor3_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="stupa_1">
+  <inertial>
+    <origin xyz="0.0030786497825672915 0.13306965971703355 -0.017961068374357306" rpy="0 0 0"/>
+    <mass value="0.3916075804079101"/>
+    <inertia ixx="0.005353" iyy="0.000154" izz="0.005245" ixy="0.000138" iyz="9.6e-05" ixz="-1.1e-05"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.088364 0.248642 -0.054634" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/stupa_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.088364 0.248642 -0.054634" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/stupa_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="sock_1">
+  <inertial>
+    <origin xyz="-0.014001698374942848 0.005668288733563419 -0.01685166451269996" rpy="0 0 0"/>
+    <mass value="0.2481767030446963"/>
+    <inertia ixx="0.000128" iyy="0.000138" izz="0.000126" ixy="0.0" iyz="-9e-06" ixz="-0.0"/>
+  </inertial>
+  <visual>
+    <origin xyz="-0.101564 -0.043297 -0.049904" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/sock_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="-0.101564 -0.043297 -0.049904" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/sock_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+
+
+
+
+
+
+<link name="world"/>
+
+<link name="ground1" >
+  <inertial>
+    <mass value="0.001"/>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <inertia ixx="0.0001" ixy="0" ixz="0" iyy="0.000001" iyz="0" izz="0.0001"/>
+  </inertial>
+  <visual>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/carpet.dae" />
+    </geometry>
+  </visual>
+  <collision>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <mesh filename="package://standurdf_description/meshes/carpet.dae" />
+    </geometry>
+    <surface>
+      <contact>
+          <ode>
+            <kp>1e7</kp>
+            <kd>1e5</kd>
+          </ode>
+        </contact>
+    </surface>
+  </collision>
+</link>
+
+
+
+
+
+
+
+<link name="imu_link">
+  <inertial>
+    <mass value="0.001"/>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <inertia ixx="0.0001" ixy="0" ixz="0" iyy="0.000001" iyz="0" izz="0.0001"/>
+  </inertial>
+  <visual>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size="0.001 0.001 0.001"/>
+    </geometry>
+  </visual>
+  <collision>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size=".001 .001 .001"/>
+    </geometry>
+  </collision>
+</link>
+
+
+
+
+<joint name="world_to_ground_link=" type="fixed">
+     <parent link="world"/>
+     <child link="ground1"/>
+</joint>
+
+<joint name="world_to_base_link=" type="fixed">
+     <parent link="ground1"/>
+     <child link="base_link"/>
+</joint>
+
+
+
+<joint name="Rigid_1" type="fixed">
+  <origin xyz="-0.05051 0.148349 0.592463" rpy="0 0 0"/>
+  <parent link="base_link"/>
+  <child link="stand_1"/>
+</joint>
+
+<joint name="Slider_2" type="prismatic">
+  <origin xyz="0.02051 0.148349 0.103463" rpy="0 0 0"/>
+  <parent link="base_link"/>
+  <child link="sliders_1"/>
+  <axis xyz="-0.0 0.0 -1.0"/>
+  <limit upper="0.0" lower="-0.41" effort="100" velocity="100"/>
+</joint>
+
+<joint name="Rigid_3" type="fixed">
+  <origin xyz="-0.005798 -0.258805 0.064698" rpy="0 0 0"/>
+  <parent link="sliders_1"/>
+  <child link="motor1_1"/>
+</joint>
+
+<joint name="Revolute_4" type="revolute">
+  <origin xyz="-0.029698 0.0278 -0.029698" rpy="0 0 0"/>
+  <parent link="motor1_1"/>
+  <child link="hip_1"/>
+  <axis xyz="0.0 -1.0 -0.0"/>
+  <limit upper="0.961676" lower="-0.436332" effort="100" velocity="100"/>
+</joint>
+
+<joint name="Rigid_5" type="fixed">
+  <origin xyz="-0.00695 0.090671 0.042" rpy="0 0 0"/>
+  <parent link="hip_1"/>
+  <child link="motor2_1"/>
+</joint>
+
+<joint name="Revolute_6" type="continuous">
+  <origin xyz="0.0278 0.0 -0.042" rpy="0 0 0"/>
+  <parent link="motor2_1"/>
+  <child link="bedro_1"/>
+  <axis xyz="-1.0 -0.0 0.0"/>
+</joint>
+
+<joint name="Rigid_7" type="fixed">
+  <origin xyz="0.0799 -0.269656 -0.044155" rpy="0 0 0"/>
+  <parent link="bedro_1"/>
+  <child link="motor3_1"/>
+</joint>
+
+<joint name="Revolute_8" type="continuous">
+  <origin xyz="0.0026 0.012999 -0.039674" rpy="0 0 0"/>
+  <parent link="motor3_1"/>
+  <child link="stupa_1"/>
+  <axis xyz="1.0 -0.0 0.0"/>
+</joint>
+
+<joint name="Rigid_9" type="fixed">
+  <origin xyz="0.0132 0.291939 -0.00473" rpy="0 0 0"/>
+  <parent link="stupa_1"/>
+  <child link="sock_1"/>
+</joint>
+
+
+
+<joint name="imu_joint" type="fixed">
+  <axis xyz="0 1 0"/> <!-- 0 1 0 -->
+  <origin xyz="0 0 0.19"/>
+  <parent link="sock_1"/>
+  <child link="imu_link"/>
+</joint>
+
+
+
+
+</robot>

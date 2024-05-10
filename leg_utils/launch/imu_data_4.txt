@@ -1,0 +1,4508 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 0
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.17209355492568645
+  y: -0.010593369686042952
+  z: -0.0018209068997705926
+  w: 0.9850219658311165
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.696797279399746
+  y: 2.102098230268845
+  z: 0.7722877972034333
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 9.37547601333004
+  y: 11.687237723727087
+  z: 5.642548864409139
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 1
+  stamp: 
+    secs: 0
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.20671875362285314
+  y: -0.008722540446573957
+  z: -0.0018367493692633163
+  w: 0.9783598011675083
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.5926427201037859
+  y: 1.0787001332894084
+  z: 0.4811563359025432
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -11.804592187840267
+  y: -8.068543691889118
+  z: 7.226680397419483
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 0
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2425839158655463
+  y: -0.009682464758628948
+  z: -0.002458007741824529
+  w: 0.9700789925761081
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7770754806305594
+  y: -0.02793225269181823
+  z: 0.004925171778174079
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.3904072250901637
+  y: -4.317662853086875
+  z: 8.66153040645947
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 0
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2774248870360881
+  y: -0.010988357923402218
+  z: -0.003181684153668281
+  w: 0.9606792206189887
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.681948939237926
+  y: 0.024352840108597704
+  z: 0.017184030827662757
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.7927551282150976
+  y: -17.03265970344911
+  z: 22.307605157371672
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 1
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3125682198952756
+  y: -0.012241203193884494
+  z: -0.0040271378346702
+  w: 0.9498078979544893
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.6669898352241181
+  y: -0.03018351814325087
+  z: -0.022199998465052263
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.5312386877223525
+  y: -15.899022977711887
+  z: 19.43921721822752
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 1
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3441597469804494
+  y: -0.011739925846905773
+  z: -0.004312983669206208
+  w: 0.9388278015010693
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.5288974118935869
+  y: 0.007991407284800994
+  z: 0.011380921121381834
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.26985266095291277
+  y: -4.577622625040924
+  z: 7.602392726116974
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 1
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3719039250957084
+  y: -0.010952317136368444
+  z: -0.004394071157052609
+  w: 0.9281962127623754
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.4798348488142117
+  y: 0.0065286105098702
+  z: 0.006441171502896799
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.1713490149471658
+  y: -8.509394389679862
+  z: 6.039743018984115
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 1
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3996314825960097
+  y: -0.010187901287982293
+  z: -0.00444148642107266
+  w: 0.9166085085704981
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.9622761943803522
+  y: 0.0172749390546623
+  z: 0.01857908514577683
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.18351397514780943
+  y: -11.049486360227867
+  z: 9.8151804052581
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 1
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42813825112015647
+  y: -0.009397609864539087
+  z: -0.004456352149934329
+  w: 0.9036533980360631
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.0497862858725384
+  y: 0.013017607701688562
+  z: 0.020007166828098003
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.2571496974036381
+  y: -6.497173323807805
+  z: 8.807408908310363
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 1
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3893809570434689
+  y: -0.011010967836175221
+  z: -0.004655359432694447
+  w: 0.9209992163448216
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.2685674690394054
+  y: -0.028837879005234112
+  z: -0.029694709659657394
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.4283673236305614
+  y: 75.07175528708807
+  z: -87.82035324065721
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 1
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3377700060648793
+  y: -0.013136860369818738
+  z: -0.004715214896177169
+  w: 0.9411251843676472
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.6040335665153231
+  y: -0.03914719866899397
+  z: -0.03211326639437902
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.547121357288983
+  y: 68.42465302323633
+  z: -82.0576295257
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 1
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28446941570567064
+  y: -0.01515394877755395
+  z: -0.0044963564576192125
+  w: 0.9585547935006781
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.838517067501796
+  y: -0.03635292691501284
+  z: -0.023710779837900788
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.05419670621166378
+  y: -52.44012333223978
+  z: 52.848007224131074
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 1
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22572882252249787
+  y: -0.017400517995999756
+  z: -0.0040440810354606
+  w: 0.9740263682594307
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.36127460662347366
+  y: -0.031255435650854854
+  z: -0.011944020467619488
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6035566271210269
+  y: -22.456668772793236
+  z: 41.07538018166162
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 1
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29242275988816946
+  y: -0.015229224937190639
+  z: -0.004658467453693944
+  w: 0.9561565242616825
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.197661087358284
+  y: 0.09326309059752069
+  z: 0.06287998613418594
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.6656891554931311
+  y: -50.63084202779864
+  z: 94.00531211092266
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 2
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3220528349628543
+  y: -0.01340420366373817
+  z: -0.004584847949706749
+  w: 0.9466156970945537
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.9508696518470143
+  y: 0.04050708896717931
+  z: 0.04665673918087702
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.24154706382936053
+  y: 7.355208886007992
+  z: -28.44610539344754
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 2
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3751016599983283
+  y: -0.011470091169779413
+  z: -0.004640624603401407
+  w: 0.9269010984341025
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.1910579103862935
+  y: 0.033600325585081775
+  z: 0.03257463162975724
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.1026872957829367
+  y: -11.003859297185357
+  z: -7.9839990992100525
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 2
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4318121693849227
+  y: -0.009401584826749423
+  z: -0.0044903507352899875
+  w: 0.9019033747159982
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.2037798681230858
+  y: 0.06087656315550342
+  z: 0.06824919799558815
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.3284877284083132
+  y: -6.593477378017603
+  z: 3.3929971864198003
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 2
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38702912209644785
+  y: -0.011079325146123874
+  z: -0.004651001501203117
+  w: 0.9219891948328869
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.173335058829028
+  y: -0.03038518465875447
+  z: -0.03108654011047961
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.10310514089844386
+  y: -94.97748244861727
+  z: 85.213465130446
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 2
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32845075011481584
+  y: -0.013206042771245109
+  z: -0.00459314474711037
+  w: 0.944417602655028
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.1444800349682012
+  y: 0.004124886847016163
+  z: 0.0032951931135661045
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.772546571594433
+  y: 68.33452721005983
+  z: -96.75543967651126
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 2
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28389003294574516
+  y: -0.015176777287562598
+  z: -0.0044927460984722795
+  w: 0.9587262017164869
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.395646430699975
+  y: -0.014985758024379753
+  z: -0.00857067556569626
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.42414845590109496
+  y: 88.09420367770282
+  z: -129.96537641670665
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 2
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.24403144470336685
+  y: -0.017227489468478505
+  z: -0.004337558500434745
+  w: 0.9696045859982597
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.7309530065468812
+  y: -0.04860358983990435
+  z: -0.025244994965800044
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.18776713336217357
+  y: -19.752439838313272
+  z: 48.95748318195686
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 2
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2980043103211543
+  y: -0.015470079333070435
+  z: -0.004833823423538825
+  w: 0.9544269180123494
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.340004187285111
+  y: 0.04075845633174475
+  z: 0.029872161253758512
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.9233507882712888
+  y: -68.09694399355467
+  z: 147.34214656300855
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 2
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3180726336931362
+  y: -0.013510783331057265
+  z: -0.004533487383986354
+  w: 0.9479592322043351
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.160690453187001
+  y: 0.14520824231563803
+  z: 0.11023455920827173
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -4.4862543387170595
+  y: 68.81934849119256
+  z: -84.45991521895976
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 2
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38903663191578763
+  y: -0.011383748199230815
+  z: -0.0048079139652483106
+  w: 0.9211393994764632
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.572647194467693
+  y: 0.015295521327694184
+  z: 0.015824503183821247
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.7100577538872723
+  y: -72.47866652008976
+  z: 130.30444004179873
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 3
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4341204397778495
+  y: -0.00938258858554852
+  z: -0.004523016301642317
+  w: 0.9007946231644903
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.2186011653668294
+  y: -0.013116405730152294
+  z: -0.016121101031437525
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.40067432728702
+  y: -91.08042866426061
+  z: 61.90487752080422
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 3
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4004134972083638
+  y: -0.010973420162320762
+  z: -0.004795765160356387
+  w: 0.9162563047203743
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.3569531347750169
+  y: -0.0275220090707779
+  z: -0.03007774862179845
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.9094384899554332
+  y: 36.46576388707735
+  z: -21.666567463104947
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 3
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3388401398131703
+  y: -0.013284265490369393
+  z: -0.004772301394042502
+  w: 0.9407380682640505
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.4874136511158928
+  y: 0.022419934254777202
+  z: 0.014710945022218001
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.9303966158316275
+  y: 17.117015671374233
+  z: 10.057866807782489
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 3
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.280032250481442
+  y: -0.015171212991172295
+  z: -0.004425760250676593
+  w: 0.9598605032153782
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.6550508431590043
+  y: 0.046331579299103684
+  z: 0.02953761797255951
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.3511903485612644
+  y: 126.39680035198498
+  z: -171.53279097267367
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 3
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22165430949320142
+  y: -0.017301807640498667
+  z: -0.003930329195699018
+  w: 0.9749638798683142
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.6449439255644207
+  y: -0.02689389003967712
+  z: -0.015530202819118677
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.24453122395384802
+  y: -30.637312199041286
+  z: 30.81183340711381
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 3
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29353754754274375
+  y: -0.015281557422949643
+  z: -0.0046943762264289625
+  w: 0.955813865256811
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.6974776093192119
+  y: 0.1231226960285966
+  z: 0.08426014282896893
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.3193213672289391
+  y: -16.268775078624955
+  z: 59.63991764842112
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 3
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3117861329283803
+  y: -0.013662121592850393
+  z: -0.004481075094747851
+  w: 0.950043511484155
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7076514587749133
+  y: 0.050752708801713724
+  z: 0.018340137556282967
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.6619168260251023
+  y: -37.026443693467364
+  z: 16.823749622817452
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 3
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3685432970204307
+  y: -0.011547311655867755
+  z: -0.0045751889671907815
+  w: 0.9295276033882734
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.0330959951835252
+  y: 0.04269840530109183
+  z: 0.039362493156923146
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.5644318845053043
+  y: -4.0175741428033565
+  z: -36.08495690517756
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 3
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4327326323036141
+  y: -0.00945015796344434
+  z: -0.004522169403310521
+  w: 0.9014614320301998
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.036635933254658
+  y: 0.03304991647260116
+  z: 0.02591308559528237
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.6663979414153729
+  y: -9.611736836447857
+  z: 6.4120176225051
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 3
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3910739717150816
+  y: -0.0110273882924111
+  z: -0.004686222011330973
+  w: 0.9202812530295834
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.956613680514004
+  y: -0.02345696634476939
+  z: -0.02445354153456953
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.20747779810311454
+  y: -57.65801301030925
+  z: 55.748220917839774
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 4
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3310640474931755
+  y: -0.013136464545356108
+  z: -0.004608930136125434
+  w: 0.9435055842546378
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.23145684487001306
+  y: 0.003147504653622784
+  z: 0.003103248904924047
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.1556218655886785
+  y: 102.40387162975392
+  z: -140.21574449932277
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 4
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2717020640766971
+  y: -0.015534413280404221
+  z: -0.004369210342409129
+  w: 0.9622461121675057
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.5584579150881663
+  y: -0.07231118600557802
+  z: -0.06446707334364778
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.4628312527027225
+  y: -84.15031244791183
+  z: 107.43291740937052
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 4
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2288455261474068
+  y: -0.01722115680373407
+  z: -0.004049743653257476
+  w: 0.9733019862802094
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.2472635325005368
+  y: -0.00017156543995809712
+  z: -0.0011534114795964678
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.13212990915023265
+  y: 49.27041410360001
+  z: -73.37098966767633
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 4
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29772650609100054
+  y: -0.015318401371064851
+  z: -0.004782862738530849
+  w: 0.9545163164526339
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.642354888426024
+  y: 0.07435359999378874
+  z: 0.05120085324974773
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.2550067772673933
+  y: 114.09596367502348
+  z: -81.43289820808779
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 4
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3259237207286437
+  y: -0.013310470033731795
+  z: -0.004588838701503764
+  w: 0.9452912261378765
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.2030270325380759
+  y: 0.08418151047416066
+  z: 0.06669130914256811
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.642631308496323
+  y: 124.67990197833085
+  z: -149.87542802013422
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 4
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.376592309932108
+  y: -0.01138086291202542
+  z: -0.004626926551668883
+  w: 0.9262976301438228
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.2319940573542254
+  y: -0.009679754188947063
+  z: -0.009485052103407101
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.5473241870216132
+  y: -206.65286230449607
+  z: 170.80714849324573
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 4
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.43743112791269556
+  y: -0.00943355677890781
+  z: -0.0045897813536521295
+  w: 0.8991907196177303
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -5.937345131408014
+  y: 0.04823029031855235
+  z: 0.06007635193345913
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.9685707285211338
+  y: 163.82873581757892
+  z: -157.67630245730797
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 4
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.39350804128641037
+  y: -0.011198054108710486
+  z: -0.004793718428484972
+  w: 0.9192404719608137
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.807182532516569
+  y: -0.015054145582655153
+  z: -0.01606359964094683
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.21741861348343194
+  y: -28.091466952608172
+  z: 57.449135411367145
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 4
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.33949035774052616
+  y: -0.013255934180046983
+  z: -0.00478608375780688
+  w: 0.9405039450276045
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.37958052610192256
+  y: -0.036113903054207974
+  z: -0.030025861676379908
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.5685241379573143
+  y: 25.777477410570675
+  z: -11.501431834997456
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 4
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2879284450914473
+  y: -0.015167609029772265
+  z: -0.004561797042692606
+  w: 0.9575209366647199
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.935462207179032
+  y: 0.0015572002706360118
+  z: 0.002522762127974993
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.03053921559850492
+  y: -19.118413814484594
+  z: 30.36564078637844
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 5
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22963732701757858
+  y: -0.017424851895591578
+  z: -0.004114119719989997
+  w: 0.9731115797253508
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.9988840985542153
+  y: -0.04737610177785147
+  z: -0.08512061158116956
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.0946609513484344
+  y: -63.89475823866678
+  z: 75.61864838281682
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 5
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2959712036319049
+  y: -0.015224120127620306
+  z: -0.004719490151965401
+  w: 0.9550638717906392
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.0964694686424625
+  y: 0.17657129596828103
+  z: 0.12303559402144698
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.48756469893961546
+  y: -63.00782413989787
+  z: 145.57656196494878
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 5
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3031256017124868
+  y: -0.013448451545943403
+  z: -0.004274095099240093
+  w: 0.9528461265327902
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.698761594157658
+  y: 0.12403133734904508
+  z: 0.0873793427371137
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -5.623120654479831
+  y: -225.81058382137348
+  z: 172.62868258069392
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 5
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.34444762327928274
+  y: -0.011956051740770253
+  z: -0.0043639691343951474
+  w: 0.938719256975918
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.5924087969693387
+  y: -0.0010951702070353037
+  z: -0.004223499196542476
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.37732048454588285
+  y: 29.93136002738053
+  z: 14.726979814582572
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 5
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4125760085164111
+  y: -0.009538636073932552
+  z: -0.004320221516985704
+  w: 0.9108629904132453
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.997188475896921
+  y: 0.036351606272582306
+  z: 0.04187870197890961
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.2446582500723234
+  y: -2.387854206472716
+  z: -30.896523877125567
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 5
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3687090859028032
+  y: -0.011106014979484479
+  z: -0.0044069986489893775
+  w: 0.9294680439729506
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 7.210733947828087
+  y: -0.05473759548344469
+  z: -0.05282499788661496
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.2833639255901206
+  y: -291.37895345438955
+  z: 214.4091089700318
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 5
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3118054590586752
+  y: -0.013399217452257325
+  z: -0.004397400886139148
+  w: 0.950041304122259
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -5.098225672573561
+  y: -0.041269393586450195
+  z: -0.03028744152907382
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.09721142289394841
+  y: 169.2289131455775
+  z: -277.9006225747476
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 5
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2918856362525316
+  y: -0.015209025903200583
+  z: -0.004644026746911519
+  w: 0.9563210203148861
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.622663951942818
+  y: -0.10113811084238203
+  z: -0.06827505157967578
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.4374729282718204
+  y: -137.28767653185147
+  z: 204.26603025364332
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 5
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.21542291905368985
+  y: -0.017424244166212178
+  z: -0.0038459772541117867
+  w: 0.9763578084496403
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1550269953917804
+  y: -0.26249164672472025
+  z: -0.12369024329499044
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.052915313262894725
+  y: -30.664033386519115
+  z: 12.352885338519396
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 5
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31459240767222624
+  y: -0.015365786894615258
+  z: -0.0050984515307990735
+  w: 0.9490887816321976
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.0129847463333128
+  y: 0.08415565588475966
+  z: 0.06019613358830428
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.00748970727691417
+  y: -191.50323036139136
+  z: 306.32162546668434
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 6
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31962817084975426
+  y: -0.0136488717340386
+  z: -0.0046069586287491365
+  w: 0.9474335420660496
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.53046550061069
+  y: -0.08157194558417159
+  z: -0.06297135433193982
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 3.8304511284602727
+  y: -38.65241610510646
+  z: 83.36475761883491
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 6
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.34080350665144904
+  y: -0.01184025941087826
+  z: -0.004281642433765028
+  w: 0.9400502357051074
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.248762278371977
+  y: 0.08717680378296742
+  z: 0.0676014718978358
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.148361681345835
+  y: 2.2562753161474784
+  z: -96.35729189535274
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 6
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.40405254308982447
+  y: -0.009620931965307557
+  z: -0.004251423192154476
+  w: 0.914675300580269
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.9067699097911017
+  y: 0.018694192057109208
+  z: 0.020868811094424417
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.19076220206127933
+  y: -70.41686225349619
+  z: -9.882622079370162
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 6
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.35964147785909767
+  y: -0.011306096103548489
+  z: -0.0043585894527902805
+  w: 0.9330118875406698
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.511766060428596
+  y: -0.06461840299455061
+  z: -0.058760356537047476
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.903393442108506
+  y: -184.97304192633501
+  z: 77.32982707476994
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 6
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3386433347279921
+  y: -0.013231156726953054
+  z: -0.00476391351942942
+  w: 0.940809722241406
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.233918048944583
+  y: -0.058760820109554024
+  z: -0.04953834929837648
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.8264520874389418
+  y: -52.622671300858286
+  z: 89.7445224082078
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 6
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.27438778330484803
+  y: -0.01528403291630194
+  z: -0.004360266238982831
+  w: 0.9614877694433718
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.7053487265464148
+  y: -0.004369447217503318
+  z: -0.0013129979190703092
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.151648493187596
+  y: -5.121195727454579
+  z: -14.24184178596591
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 6
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22312730840356784
+  y: -0.017402409592920626
+  z: -0.003985843552917652
+  w: 0.9746258120099791
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.7250570377458497
+  y: -0.04382517257748712
+  z: -0.02204572911171631
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.8036212194219974
+  y: 2.63999618636882
+  z: 10.151400896438162
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 6
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29384720719185053
+  y: -0.015370861591359813
+  z: -0.004727391339320907
+  w: 0.9557171167299526
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.11809975341410094
+  y: 0.049430106318908706
+  z: 0.036686929904600644
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.8313006584268268
+  y: 7.29476010021328
+  z: 29.861893229240675
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 6
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3151031336976656
+  y: -0.013559901202054856
+  z: -0.00450094631641343
+  w: 0.9489498857661338
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.2235608516162346
+  y: 0.08632842988864461
+  z: 0.06436889138942513
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.2393525228958515
+  y: -121.12000985622356
+  z: 110.94235176660226
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 6
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38281222562822187
+  y: -0.011411551920916417
+  z: -0.004729303671812156
+  w: 0.9237435845942873
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.4202488443109915
+  y: 0.03059018026699286
+  z: 0.030761046338657425
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.31681671420698354
+  y: 38.73620363158637
+  z: -6.829946439716709
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 7
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42934815303260865
+  y: -0.009394189879762316
+  z: -0.0044671097154472235
+  w: 0.903079153571148
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.3700402868959967
+  y: 0.04676068642631319
+  z: 0.0570615287359443
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.5897815069518333
+  y: 43.5945319277282
+  z: -69.0124401893505
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 7
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38154408555255365
+  y: -0.011211029090863937
+  z: -0.004628085780896519
+  w: 0.9242710665322129
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.304792228764067
+  y: -0.030108602617390436
+  z: -0.02989609912272438
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.14201654821301296
+  y: -73.29896337332151
+  z: 50.01384836802919
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 7
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32199017104061883
+  y: -0.013517212434839304
+  z: -0.004592435866360337
+  w: 0.9466353702741293
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.584124179841727
+  y: 0.021681101104107495
+  z: 0.01637702312981772
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.23335197513474248
+  y: 69.44097219075128
+  z: -90.27671498674664
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 7
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2913562468125961
+  y: -0.01504765304005524
+  z: -0.004583055915761484
+  w: 0.9564852853963499
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.96554922800742
+  y: 0.03587956032425474
+  z: 0.025402873976290152
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.2698203214584201
+  y: 42.27598522438678
+  z: -44.72428353457258
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 7
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22952240682868758
+  y: -0.017498711529051632
+  z: -0.0041305743913032334
+  w: 0.9731372966922949
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.7527233944783043
+  y: -0.1462915300859824
+  z: -0.11300838985885706
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.30594877181011887
+  y: -115.30019660443803
+  z: 138.11664424729625
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 7
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29760664792347596
+  y: -0.01516446424944506
+  z: -0.004729272324101794
+  w: 0.9545564185102231
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.055046676563993
+  y: 0.2556904581299617
+  z: 0.17920790535723918
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8777926096181408
+  y: -99.64421333967574
+  z: 206.89002754724922
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 7
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2950438680962696
+  y: -0.013457722063067978
+  z: -0.004150127949354363
+  w: 0.9553799150357246
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.4520003043088
+  y: 0.19118379716260467
+  z: 0.1297231897738493
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -8.701331940439367
+  y: -267.2463916803795
+  z: 196.41373977610203
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 7
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.36984097581363257
+  y: -0.011598386093523488
+  z: -0.004615891264545777
+  w: 0.9290112074658085
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -10.921156034285541
+  y: 0.13568529540784838
+  z: 0.12738598262293865
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -9.486996726633325
+  y: 269.71378706678917
+  z: -350.0821575829291
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 7
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42207308971180735
+  y: -0.00959572904049986
+  z: -0.004467374649452591
+  w: 0.9065000118527586
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.535208662293073
+  y: 0.00939922699339699
+  z: 0.012397602162670133
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8238502926209915
+  y: 106.91980244509492
+  z: -133.8277545732958
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 7
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4003830704376935
+  y: -0.01099584074288189
+  z: -0.004806276750903958
+  w: 0.9162692770670835
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.3719331486473427
+  y: -0.0947727795344394
+  z: -0.10111135461335569
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 3.136060637141009
+  y: -198.34286270007996
+  z: 201.86669826817868
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 8
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.34138641450703483
+  y: -0.013076912432472878
+  z: -0.0047514730770680325
+  w: 0.9398200539756865
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.24600776839988078
+  y: 0.056583016595725656
+  z: 0.04579735521659472
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -4.706123847706015
+  y: 123.47610343289739
+  z: -117.56906019144094
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 8
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2901438431803286
+  y: -0.014996289574266134
+  z: -0.00454467345110908
+  w: 0.9568547473398333
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.370645849696064
+  y: -0.009460677830636187
+  z: -0.006402404858601558
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.16135824610784066
+  y: -92.66027057685318
+  z: 111.89365196701957
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 8
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.23477600765885134
+  y: -0.017138851086956616
+  z: -0.004136100344366618
+  w: 0.9718895918185004
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.291329918238407
+  y: 0.11008281505232018
+  z: 0.05344492449247011
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.7634389478101349
+  y: -132.271198387001
+  z: 155.7674083579488
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 8
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.25360893083895236
+  y: -0.015604340698337951
+  z: -0.004099635840632353
+  w: 0.9671722740732738
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.396916257712831
+  y: 0.035419740725010335
+  z: 0.024162678078632233
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.9498460342770179
+  y: 7.914304778378216
+  z: -7.591492259944918
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 8
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.33675020644898224
+  y: -0.013368376201469679
+  z: -0.004781239760406614
+  w: 0.9414869753324565
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -5.7858549437262035
+  y: -0.0430701612056633
+  z: -0.03431098478661726
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.94796761067642
+  y: -44.46773214435306
+  z: -12.368746454945262
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 8
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3956098899231231
+  y: -0.011533793403647467
+  z: -0.004969860420977159
+  w: 0.9183327757910703
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.9848535576193183
+  y: -0.04008994676346073
+  z: -0.04406036584200933
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 5.477305716804503
+  y: -203.89552261666168
+  z: 275.0945179789428
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 8
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.43070253748408954
+  y: -0.009474958992293055
+  z: -0.004520045396966222
+  w: 0.9024328886662266
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.604986955778918
+  y: 0.11326804073663713
+  z: 0.13508627420945193
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.481295010706914
+  y: -28.801650618103956
+  z: 43.17205532313255
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 8
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3711961341079922
+  y: -0.011423567571626126
+  z: -0.0045822837708745226
+  w: 0.928472904721867
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.711509381552829
+  y: -0.8175044319289296
+  z: -0.7904377461972729
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 50.82420115465395
+  y: -8.308766744226842
+  z: -18.67587796722121
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 8
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32302823780140766
+  y: -0.014205295325425386
+  z: -0.004838897515641531
+  w: 0.9462703378202594
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.9372710846502952
+  y: -0.07500536768783897
+  z: -0.03901048649464463
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -25.224543603623424
+  y: 13.901789673552907
+  z: -75.36459285305877
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 8
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2572648691030147
+  y: -0.01609893991445252
+  z: -0.004267085382582233
+  w: 0.9661973935182073
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.140360945552618
+  y: 0.19650422237150345
+  z: 0.10890270369267085
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 5.257861620052511
+  y: 64.26320622533662
+  z: -9.30175145783077
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 9
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22096338675654545
+  y: -0.01716958063312494
+  z: -0.0038823308460181165
+  w: 0.9751232305309735
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.303414156627107
+  y: 0.12095355083933347
+  z: 0.062135900482945296
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.6634552204118036
+  y: -216.66371849748487
+  z: 254.49205680072734
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 9
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2941772463834368
+  y: -0.015588705402038383
+  z: -0.004801779481003571
+  w: 0.9556116799662732
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.6827820341783495
+  y: -0.4569525644633169
+  z: -0.31707170587617944
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.9438087313734316
+  y: -361.80364164690303
+  z: 488.63259351809717
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 9
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.332067715331171
+  y: -0.01342122767511566
+  z: -0.004726505331728307
+  w: 0.943148219120292
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.677114987883797
+  y: 0.022569659343006473
+  z: 0.017848733855943356
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.4626042752486085
+  y: -117.44884110978646
+  z: 187.98383853682012
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 9
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.361267685436894
+  y: -0.011478549764080453
+  z: -0.004447264725197227
+  w: 0.9323808900823991
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.6678595832205
+  y: 0.09427130590510223
+  z: 0.08568233820029443
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -3.40166605985023
+  y: 148.81636944709942
+  z: -210.88304610318644
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 9
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4418594699517622
+  y: -0.009384360979933391
+  z: -0.004620390787746001
+  w: 0.8970232965603038
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.10180868438776397
+  y: 0.019689682565113817
+  z: 0.025774712612064217
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.2659819617140574
+  y: 89.84933311779454
+  z: -22.253187320645264
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 9
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3854229985967949
+  y: -0.011096809170359172
+  z: -0.004636507300837714
+  w: 0.9226616258298277
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 9.218216309251483
+  y: -0.08486727240370916
+  z: -0.08704562742166108
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 3.487893702110831
+  y: -220.40757967671294
+  z: 238.01809582251485
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 9
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31170245226315885
+  y: -0.013311858718982826
+  z: -0.004366374127781908
+  w: 0.9500764761047161
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.364506391138494
+  y: -0.03896074744455425
+  z: -0.028663227612902898
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.15493600057040635
+  y: -29.8357468324327
+  z: -31.5938504803246
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 9
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2667432595039032
+  y: -0.015454868327346093
+  z: -0.004263530965970381
+  w: 0.963634268204447
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.5491936506298282
+  y: -0.09200354450549245
+  z: -0.06921443571113642
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.5106021894438647
+  y: -1.9999262643991171
+  z: -20.64791761968271
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 9
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2256634598410507
+  y: -0.017359288399517888
+  z: -0.00402087872947316
+  w: 0.9740423453490469
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.4557785598558968
+  y: 0.020272180301481816
+  z: 0.013987622678895143
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.0013508080341444
+  y: -17.8576647574536
+  z: 20.191281145177317
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 9
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.30105759257444376
+  y: -0.015384964984599351
+  z: -0.004859182827133119
+  w: 0.9534694631439201
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.21657368508159563
+  y: 0.04243577421905169
+  z: 0.030938542019884933
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6442676930408964
+  y: -146.78679172489794
+  z: 207.1028061439
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 10
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32889658066701366
+  y: -0.013489856227363548
+  z: -0.0046996365127138845
+  w: 0.9442578971981969
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.458475113375798
+  y: 0.10467667840302672
+  z: 0.08296860951712312
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -3.9478778506584233
+  y: -74.6690839320167
+  z: 127.25530017606397
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 10
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.37826421188913395
+  y: -0.011363835481386128
+  z: -0.004644135536574554
+  w: 0.9256162710606173
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.4014965696249675
+  y: 0.04987404068113371
+  z: 0.04870309081018287
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.0276004713802447
+  y: 85.58623572727849
+  z: -128.15442510706714
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 10
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4269553817280806
+  y: -0.009531228194453688
+  z: -0.0045000116444326235
+  w: 0.9042112627023257
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.9761028891310417
+  y: 0.02323793220079281
+  z: 0.028885496568063197
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.09747830882809394
+  y: 26.07086387363352
+  z: -41.30672533035094
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 10
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38585141071858337
+  y: -0.011379499228200416
+  z: -0.004759213425796903
+  w: 0.9224784798201865
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.2050794805642115
+  y: -0.06296983874578344
+  z: -0.06473758736802555
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.4062867697284407
+  y: -253.77294494623015
+  z: 261.95925690383393
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 98
+  stamp: 
+    secs: 10
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.34302713590228784
+  y: -0.013256544605269673
+  z: -0.004842953120687171
+  w: 0.9392194599053368
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.4695242416308083
+  y: -0.020224812434131274
+  z: -0.017149079068595505
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.3491354337790047
+  y: 105.68312039607284
+  z: -93.25996201008492
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 99
+  stamp: 
+    secs: 10
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28216508024993914
+  y: -0.015272935650140783
+  z: -0.004492722277467816
+  w: 0.9592337673219754
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.329745887211157
+  y: -0.013320489209486704
+  z: -0.008670480529450963
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.21931072618344577
+  y: 61.591740714050026
+  z: -87.67090554973193
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 100
+  stamp: 
+    secs: 10
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22720666878876164
+  y: -0.01746383479941855
+  z: -0.004073848463532467
+  w: 0.973681440662555
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.14509153804574618
+  y: 0.04739206735440507
+  z: 0.028077109537082222
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.3618227647646026
+  y: 30.459113046778043
+  z: -19.358061313415696
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 101
+  stamp: 
+    secs: 10
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28815410600307945
+  y: -0.015469081244040549
+  z: -0.004658826035366398
+  w: 0.9574477604856588
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.4726024431517781
+  y: 0.0018043460945446317
+  z: 0.0017022592466709157
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.2953757963678973
+  y: 76.7177698357743
+  z: -60.56077592745209
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 102
+  stamp: 
+    secs: 10
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3221007986351455
+  y: -0.01350462474827903
+  z: -0.0045949083403326344
+  w: 0.9465979016701618
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.028759431077293
+  y: 0.042095201816496106
+  z: 0.03211820759135159
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.23620961540875385
+  y: 5.423606994785316
+  z: -33.93140400253871
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 103
+  stamp: 
+    secs: 10
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3718921838828158
+  y: -0.011520531007183076
+  z: -0.004602348089421908
+  w: 0.9281930291293111
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.7407541747984312
+  y: 0.046693449960122015
+  z: 0.03433320472230109
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.055135688915598
+  y: -31.961797965817357
+  z: 39.51422698463913
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 104
+  stamp: 
+    secs: 11
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42581104836746514
+  y: -0.009561824566012705
+  z: -0.004496840537480272
+  w: 0.9047504081371555
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.1081830780430597
+  y: 0.022171114473422227
+  z: 0.02275547096651479
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.6149812819121315
+  y: -14.691778896268822
+  z: 3.8723950358922306
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 105
+  stamp: 
+    secs: 11
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3876010391994772
+  y: -0.011119759604780207
+  z: -0.004675973195099343
+  w: 0.9217482957036025
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.3803071737906258
+  y: -0.026839570520502468
+  z: -0.02724222860278383
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.23058127779104065
+  y: 48.36484368286546
+  z: -62.21060597937737
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 106
+  stamp: 
+    secs: 11
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3323445076145129
+  y: -0.013120343360889863
+  z: -0.004622689579743512
+  w: 0.9430554679283764
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.9869484021376234
+  y: -0.045921354136250654
+  z: -0.036704651298113615
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.8879548135174613
+  y: -5.007251187024307
+  z: -23.049227808487938
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 107
+  stamp: 
+    secs: 11
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.26792679454025303
+  y: -0.015652508821752318
+  z: -0.0043440560169890965
+  w: 0.9633023206202149
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.7990324915702397
+  y: -0.024327541082501278
+  z: -0.03810744219348068
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.519009256009707
+  y: 13.78334555058524
+  z: 9.405522960799365
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 108
+  stamp: 
+    secs: 11
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2315375268450988
+  y: -0.017115621501713977
+  z: -0.004071440388379594
+  w: 0.9726668764465196
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.2864789047284888
+  y: -0.030595574019603753
+  z: -0.013601993152849936
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.05160356666504162
+  y: 2.3471957131915087
+  z: -19.661530901379383
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 109
+  stamp: 
+    secs: 11
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3022394417824188
+  y: -0.015231633688654126
+  z: -0.004834231060892321
+  w: 0.9530980785712855
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.3026089676117203
+  y: 0.03166040526296853
+  z: 0.024420493264971487
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.0670619389850495
+  y: 163.27792026851196
+  z: -134.43015063775164
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 110
+  stamp: 
+    secs: 11
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3217094233690614
+  y: -0.013321353647033097
+  z: -0.004524236090046538
+  w: 0.9467339223564126
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.8480721125940753
+  y: 0.057848363879333356
+  z: 0.0458600576143008
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.5138965893207075
+  y: -50.680227739020914
+  z: 25.59532262389416
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 111
+  stamp: 
+    secs: 11
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.37168743733776455
+  y: -0.011400514864888373
+  z: -0.004564809731360742
+  w: 0.9282767042742252
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.105235136593756
+  y: 0.04560362988254397
+  z: 0.043295734729372086
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.9978121178662225
+  y: 146.00430700155036
+  z: -193.2188636554057
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 112
+  stamp: 
+    secs: 11
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42492327685968945
+  y: -0.009459064441043111
+  z: -0.004441392249616519
+  w: 0.9051690499114567
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.0811259006598705
+  y: 0.00022804552078432437
+  z: 0.0012349368526776892
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.2632538859118416
+  y: -133.04996413067045
+  z: 86.29889567229279
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 113
+  stamp: 
+    secs: 11
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.395378665052381
+  y: -0.011031154298579928
+  z: -0.004750375319075661
+  w: 0.9184396870728998
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.3213815323922542
+  y: -0.015974141375210447
+  z: -0.01578246051431408
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.15649255600801482
+  y: -22.574522858984935
+  z: 34.676111651701184
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 114
+  stamp: 
+    secs: 12
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.34079093495807156
+  y: -0.013041317405184025
+  z: -0.00472777022740871
+  w: 0.9400367603872827
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.5474221459083811
+  y: -0.024052935001930856
+  z: -0.02003912751501971
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.22704887955598207
+  y: 17.019331361021578
+  z: -21.910412888028596
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 115
+  stamp: 
+    secs: 12
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2850980381755667
+  y: -0.015194957687167856
+  z: -0.004519286309691386
+  w: 0.9583672562961337
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.3887666610616873
+  y: -0.027884654580893453
+  z: -0.017916479950117335
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.040369035835423395
+  y: -23.81108695079672
+  z: 26.012573774186855
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 116
+  stamp: 
+    secs: 12
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22746625102925982
+  y: -0.01748290589330662
+  z: -0.004077530387303557
+  w: 0.973620473485516
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.000158031671431
+  y: 0.10260596946923439
+  z: 0.05075828082422875
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.2284121191798565
+  y: 17.2913447024983
+  z: -15.127882486440065
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 117
+  stamp: 
+    secs: 12
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29085117884117256
+  y: -0.015456535073499934
+  z: -0.004702137115811117
+  w: 0.9566318922118194
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7938388800545942
+  y: 0.09119584002961714
+  z: 0.06250841224139761
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.1902369920556472
+  y: 76.07834641753601
+  z: -47.88011492026138
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 118
+  stamp: 
+    secs: 12
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31617213742649336
+  y: -0.013537649463390245
+  z: -0.004507029979109513
+  w: 0.9485945383792469
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.5819565867743046
+  y: 0.040864910272286795
+  z: 0.03285647724179924
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.1629220476632616
+  y: -133.61345932826808
+  z: 112.87898116031707
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 119
+  stamp: 
+    secs: 12
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.39082056758716016
+  y: -0.011399987704752876
+  z: -0.004840930681578733
+  w: 0.9203835557099646
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.6169135046583336
+  y: 0.0043893098443742555
+  z: 0.004546248776217248
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.2621741732024334
+  y: -113.24686531755519
+  z: 177.7629857110234
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 120
+  stamp: 
+    secs: 12
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4321888119947514
+  y: -0.009599268835265384
+  z: -0.004597563475914345
+  w: 0.901720326506217
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.1202261833447211
+  y: 0.012752656365151233
+  z: 0.021091938549153453
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.7865748184955834
+  y: -25.029478252345115
+  z: 9.10045989620113
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 121
+  stamp: 
+    secs: 12
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3902402114630191
+  y: -0.01114754233716069
+  z: -0.004725934209356123
+  w: 0.920633464090345
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.585334785083216
+  y: -0.040648816709733596
+  z: -0.04275126154233473
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.3356995873463628
+  y: -153.13843024902965
+  z: 169.0454037135709
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 122
+  stamp: 
+    secs: 12
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3139082536295677
+  y: -0.013442191153225277
+  z: -0.004444776004501356
+  w: 0.9493477549172933
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.448483286168127
+  y: -0.02520287137030681
+  z: -0.01873460366531296
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.7003963604681205
+  y: 43.72145539922158
+  z: -102.16019256743824
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 123
+  stamp: 
+    secs: 12
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29223106394687387
+  y: -0.015227150941205997
+  z: -0.0046556565380292455
+  w: 0.9562151766212935
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.9731798637234186
+  y: -0.04585805758604672
+  z: -0.030284680168192833
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.17961406466784735
+  y: 184.17508719020796
+  z: -211.6710653344578
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 124
+  stamp: 
+    secs: 13
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.23814770057959384
+  y: -0.017217638623929724
+  z: -0.00422574397046334
+  w: 0.9710671288416491
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.37956166434790134
+  y: -0.19155931156124367
+  z: -0.09848817729918395
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.3581052939673393
+  y: 112.47226098759685
+  z: -140.76316218796956
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 125
+  stamp: 
+    secs: 13
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.30693468132956647
+  y: -0.015273105964238927
+  z: -0.004927433298200306
+  w: 0.9515952679750013
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -5.266172447503584
+  y: 0.07236499957593047
+  z: 0.05298261691065851
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.1818070972092209
+  y: -44.78592979553442
+  z: 50.505075739339006
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 126
+  stamp: 
+    secs: 13
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3463930295878163
+  y: -0.013303830779387136
+  z: -0.0049145167894490424
+  w: 0.9379822624465207
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.757134208337399
+  y: 0.07073538743332826
+  z: 0.06055441281580313
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.81672704817875
+  y: -205.89404971190473
+  z: 317.27711690976065
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 127
+  stamp: 
+    secs: 13
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.35979427895442706
+  y: -0.011581358640147511
+  z: -0.004466169523294728
+  w: 0.9329490888004026
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7567487779510408
+  y: 0.11066312783686232
+  z: 0.10044172908713732
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -5.5774024375315046
+  y: 162.51947275093949
+  z: -212.55189579495257
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 128
+  stamp: 
+    secs: 13
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.45312342524052146
+  y: -0.009352607073697606
+  z: -0.004752266724391645
+  w: 0.891386059011584
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.108244283292001
+  y: -0.02191061114324892
+  z: -0.027986467358264183
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.4831695257725115
+  y: -212.99600652332242
+  z: 291.4913533866172
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 129
+  stamp: 
+    secs: 13
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4103649743163792
+  y: -0.010827148854151003
+  z: -0.00487396607774429
+  w: 0.9118440684440957
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.587859120272733
+  y: -0.051687143371311584
+  z: -0.05878848728761477
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.168303221845019
+  y: 15.058249411213573
+  z: 58.76495230810251
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 130
+  stamp: 
+    secs: 13
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3093098973353547
+  y: -0.013250377965107304
+  z: -0.004309329464305339
+  w: 0.9508592138554173
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.973112730888689
+  y: 0.010379688045002881
+  z: 0.008119679579010658
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.9554091925520822
+  y: -92.49505552557125
+  z: 36.72133284557421
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 131
+  stamp: 
+    secs: 13
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2655261654852844
+  y: -0.015227445545923502
+  z: -0.004189368355772367
+  w: 0.9639742888363811
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.9001663839044595
+  y: -0.052394857474040005
+  z: -0.03210910973867707
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.45695019604850096
+  y: -89.50958618726557
+  z: 20.51465043767445
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 132
+  stamp: 
+    secs: 13
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2375055923552882
+  y: -0.01753092306791026
+  z: -0.004290702071644251
+  w: 0.9712184873714477
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.35762500189083335
+  y: 0.12040391452987666
+  z: 0.07467452341215362
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.2477413194103537
+  y: 25.33157984994001
+  z: 37.18295773638422
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 133
+  stamp: 
+    secs: 13
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.27233650275590876
+  y: -0.01541259521769672
+  z: -0.004362227397501887
+  w: 0.9620687356667759
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.109474190266207
+  y: 0.07704346407767898
+  z: 0.04870541617749422
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.09167680363963021
+  y: 8.723568100316928
+  z: -6.741392805439089
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 134
+  stamp: 
+    secs: 14
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3367778481054107
+  y: -0.013362757645217166
+  z: -0.004780413848201242
+  w: 0.9414771719893392
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7978865458862423
+  y: 0.02250557112402973
+  z: 0.017890324682284697
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.23542036088351387
+  y: -62.05180854842021
+  z: 75.94296571257055
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 135
+  stamp: 
+    secs: 14
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3728143222593744
+  y: -0.011466625935793204
+  z: -0.00460710878932531
+  w: 0.9278236751433622
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.0166273634690288
+  y: 0.007932462479886618
+  z: 0.007416134689927032
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6136160358043372
+  y: -51.83445079651189
+  z: 14.972945870924935
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 136
+  stamp: 
+    secs: 14
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4246541870404654
+  y: -0.009495456054567995
+  z: -0.004453747799465226
+  w: 0.9052948811706913
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.5114922094136038
+  y: 0.01656794856058942
+  z: 0.01850038769028743
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.08408960566787715
+  y: -18.62984023087155
+  z: -8.265985736741147
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 137
+  stamp: 
+    secs: 14
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38855329262929933
+  y: -0.011068259722836185
+  z: -0.0046677829696668265
+  w: 0.9213479495911335
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.5675645438224771
+  y: -0.017536039076033343
+  z: -0.017949163151186148
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.7335181432365591
+  y: -2.6342904138415015
+  z: -18.337536537403672
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 138
+  stamp: 
+    secs: 14
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3347710696364616
+  y: -0.013147076308062533
+  z: -0.004671016126882548
+  w: 0.9421961934370949
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.3544004480368049
+  y: -0.003985434157542175
+  z: -0.0028003161661871987
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8703661812982827
+  y: 78.12356955279374
+  z: -102.0317426283729
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 139
+  stamp: 
+    secs: 14
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2760302655454233
+  y: -0.015382740072140896
+  z: -0.004423888678050641
+  w: 0.9610156570107274
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.668027308424827
+  y: 0.017303844230321597
+  z: 0.01701180944127649
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.8088263762412442
+  y: 31.689864828766826
+  z: -24.652961578129002
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 140
+  stamp: 
+    secs: 14
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.220714972464933
+  y: -0.01752020182230831
+  z: -0.0039675263979848125
+  w: 0.975172908869084
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.8996881081411691
+  y: -0.05637237510976058
+  z: -0.049232297961716534
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.9891225703034993
+  y: 0.341105322988291
+  z: 0.7021607612446914
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 141
+  stamp: 
+    secs: 14
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.291041110629403
+  y: -0.015304028287198701
+  z: -0.0046582650461487254
+  w: 0.9565767921126606
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.02677868415452
+  y: 0.006646122178341117
+  z: 0.0027737741252673452
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8193269221080814
+  y: -73.66778743648698
+  z: 127.9353799191015
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 142
+  stamp: 
+    secs: 14
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31639543253732805
+  y: -0.013454968045778648
+  z: -0.0044865475888003535
+  w: 0.9485213571634208
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.473111406751995
+  y: -0.08664518926742441
+  z: -0.06612387621877439
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 3.364800140602749
+  y: -144.57125627023376
+  z: 128.27221856580806
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 143
+  stamp: 
+    secs: 14
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38864799998716965
+  y: -0.011410822526114276
+  z: -0.004813796002750621
+  w: 0.9213030731541572
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.7461833357032774
+  y: 0.01170125642021683
+  z: 0.012067563297146464
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.7435724154540263
+  y: -61.878802277672776
+  z: 119.00926252914115
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 144
+  stamp: 
+    secs: 15
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42466530886285325
+  y: -0.009690220161541386
+  z: -0.004541969894066448
+  w: 0.9052871619497979
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7941672038136685
+  y: 0.009160309217534406
+  z: 0.011781496016667165
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.3789147259724417
+  y: 12.951659341168432
+  z: -45.093562706836416
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 145
+  stamp: 
+    secs: 15
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3960204006790345
+  y: -0.010933336276871194
+  z: -0.004715935493567911
+  w: 0.9181645083296861
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.8327427471372119
+  y: 0.012987755162873708
+  z: 0.012912508446103171
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.4715789285400998
+  y: 199.04099444537536
+  z: -185.29788449515377
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 146
+  stamp: 
+    secs: 15
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32257557762327915
+  y: -0.013208038446623783
+  z: -0.004500929088398377
+  w: 0.9464408518648915
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.51947683573242
+  y: -0.08319879964344115
+  z: -0.06478938989558566
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.511782353440387
+  y: -224.0611268390335
+  z: 212.48253399479705
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 147
+  stamp: 
+    secs: 15
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28395079620482533
+  y: -0.015152912366811438
+  z: -0.004486308277318799
+  w: 0.9587086145537079
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.6820995340348306
+  y: -0.02818917369253591
+  z: -0.017550021677945848
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.14582999810664812
+  y: 89.57834790973934
+  z: -141.65640348109315
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 148
+  stamp: 
+    secs: 15
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.24348402249151352
+  y: -0.01740314172453464
+  z: -0.004373654790334121
+  w: 0.9697388991853647
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.5460076742851037
+  y: -0.12528335809855676
+  z: -0.06658951038839667
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.27793134566192285
+  y: -57.01427822391583
+  z: 121.37184707006989
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 149
+  stamp: 
+    secs: 15
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.282162955583925
+  y: -0.01536311300041077
+  z: -0.004521808443774147
+  w: 0.9592328155893532
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.9547361273089807
+  y: 0.025466204582344457
+  z: 0.01570327627143773
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.9165079779856563
+  y: 55.11370322455882
+  z: -23.36760854222073
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 150
+  stamp: 
+    secs: 15
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3047529266492541
+  y: -0.013436924885132453
+  z: -0.004295930860492728
+  w: 0.9523269647166289
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.8039400036834996
+  y: -0.09065083847443066
+  z: -0.06473563191044171
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 4.161609825674165
+  y: -108.4496087529858
+  z: 14.89426588774431
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 151
+  stamp: 
+    secs: 15
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38073664479845926
+  y: -0.011389538338074951
+  z: -0.004690379606953881
+  w: 0.924601474183986
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -7.268946154389282
+  y: 0.054216739155891425
+  z: 0.053219226142788345
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.3223488758523838
+  y: 162.35826818904297
+  z: -204.19939685908562
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 152
+  stamp: 
+    secs: 15
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.43458912445676784
+  y: -0.009633913158517728
+  z: -0.004648345435788328
+  w: 0.9005653077405678
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.7973506772549636
+  y: 0.0017904202391140637
+  z: 0.00335323750190629
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.2621618322225507
+  y: -115.22702357810542
+  z: 124.66855653556314
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 153
+  stamp: 
+    secs: 15
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3811928557406819
+  y: -0.01117568734017808
+  z: -0.004610872540598352
+  w: 0.9244164919554132
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.5167858579125564
+  y: -0.02662412998816885
+  z: -0.02507468863284145
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.752674388996277
+  y: -38.2108594593602
+  z: 9.270920468443867
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 154
+  stamp: 
+    secs: 16
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3323350391920946
+  y: -0.013219870517379877
+  z: -0.004658448432734763
+  w: 0.9430572387755114
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.872909867714218
+  y: -0.02643311846567701
+  z: -0.021548193730438918
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.19224428843212588
+  y: -12.83096719307715
+  z: 19.422710454597656
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 155
+  stamp: 
+    secs: 16
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.28243732538143135
+  y: -0.015318334571366379
+  z: -0.004505260486771493
+  w: 0.9591528598118704
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.802399017832633
+  y: -0.04103689229442004
+  z: -0.03055161652747807
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.49808012601049256
+  y: -4.1832096041936175
+  z: 5.080998349098561
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 156
+  stamp: 
+    secs: 16
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.23027535220410802
+  y: -0.017367658842641964
+  z: -0.004101864009609481
+  w: 0.9729618704272261
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.5954169715679056
+  y: 0.021283984621109225
+  z: 0.009977678955137452
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.17981630536691762
+  y: 1.3728218025521066
+  z: 0.9208458843214453
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 157
+  stamp: 
+    secs: 16
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2928296702119062
+  y: -0.015368715631842658
+  z: -0.004710240166936955
+  w: 0.9560294976939696
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.16704021116912046
+  y: -0.013205641342870493
+  z: -0.00741922358231522
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.446150608613161
+  y: 40.54243451620492
+  z: -6.529961384690761
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 158
+  stamp: 
+    secs: 16
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3123541891631353
+  y: -0.013569997548216556
+  z: -0.004461020207554322
+  w: 0.9498583131064811
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.6309572088909399
+  y: -0.0023811202242024383
+  z: -0.004554533103946542
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.8712257870740716
+  y: -130.71986094524246
+  z: 112.22239496072932
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 16
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38250198490335147
+  y: -0.011414422871052389
+  z: -0.004725987473044679
+  w: 0.9238720731453689
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.0994023545840679
+  y: 0.03383431130796267
+  z: 0.03385529779921165
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.31009112766324
+  y: 47.42875450985041
+  z: -17.165756944783155
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 16
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4293937032117768
+  y: -0.009386558905735426
+  z: -0.004463914789873623
+  w: 0.9030575915293192
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.4176487002009015
+  y: 0.040127061755675215
+  z: 0.049005608060877115
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.207881276422413
+  y: 65.53357671237751
+  z: -87.50870623772303
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 16
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3817867031692583
+  y: -0.011180270687898564
+  z: -0.004618822755552331
+  w: 0.9241712943534043
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.3422341125361075
+  y: -0.03194601207889034
+  z: -0.031641715360465276
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.21240310088668882
+  y: -69.22015094361741
+  z: 43.56684633783652
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 16
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32102548427103084
+  y: -0.013528358967550232
+  z: -0.004577668899819394
+  w: 0.94696286458321
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.9168168843692492
+  y: -0.06602828647922776
+  z: -0.06414595179284871
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6857686914351762
+  y: 3.6991118685076616
+  z: -16.20805825371477
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 16
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2909643916272893
+  y: -0.015061294979433522
+  z: -0.004580592824016673
+  w: 0.9566043583257837
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.6912288232033859
+  y: 0.008528678460341874
+  z: 0.007610983690067247
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.4606578272842819
+  y: 60.9414094906628
+  z: -68.39063497084933
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 17
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.22985365417129827
+  y: -0.017354446441265475
+  z: -0.004093799800693432
+  w: 0.9730618488338808
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.0114147075923863
+  y: -0.3034505746934094
+  z: -0.14739919909758797
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6157472129991742
+  y: -119.33855830687645
+  z: 146.01735285194184
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 17
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2998184258387679
+  y: -0.01527533940396656
+  z: -0.004804855083973922
+  w: 0.9538618814594066
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.8321140921796615
+  y: 0.12446821786670936
+  z: 0.0895695736361829
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.0697581647472239
+  y: -20.23305574895062
+  z: 110.71225554595489
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 17
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.29893062911739204
+  y: -0.013486294860138906
+  z: -0.004220439068196733
+  w: 0.9541702084641386
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.591286924813451
+  y: 0.05223068079794863
+  z: 0.035862086354144285
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.905789620138322
+  y: -242.37330967981887
+  z: 182.6272856386533
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 17
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.364450162212328
+  y: -0.011590962164610934
+  z: -0.004536371549035369
+  w: 0.9311397049813072
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -9.064021611572825
+  y: 0.09273821432007409
+  z: 0.08452222653086597
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -4.871964006758192
+  y: 200.30908438600446
+  z: -286.97323590238267
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 17
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4256360585847588
+  y: -0.009385358659587546
+  z: -0.004418857310404542
+  w: 0.9048349763218335
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.8763166424240958
+  y: 0.00287939041882197
+  z: 0.003076515089619337
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.5217900366498793
+  y: -228.01500286637435
+  z: 110.17709596346393
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 17
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.410834777003806
+  y: -0.010787785718752009
+  z: -0.004860675150049065
+  w: 0.911633031170221
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -8.128820894442475
+  y: 0.06145689638955097
+  z: 0.06727957450962915
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -5.389005857803174
+  y: 282.0278465974657
+  z: -261.7483338917517
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 17
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.36972145073692664
+  y: -0.012872059374425981
+  z: -0.005126116842056546
+  w: 0.9290393327941316
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.6369064548109735
+  y: -0.13112826733715516
+  z: -0.12644029853467745
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 4.919347773078954
+  y: -259.1466683622017
+  z: 384.87642760304544
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 17
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.27040658898054215
+  y: -0.01560648401135533
+  z: -0.004372265662062889
+  w: 0.9626097846924744
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.889650613656485
+  y: 0.06575114715259266
+  z: 0.01773866069655623
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.961497097110128
+  y: 32.20667284639789
+  z: 3.9048116020924013
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 17
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.20275162350370945
+  y: -0.017380063972690377
+  z: -0.003595214292772272
+  w: 0.9790693473789813
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.127023973705909
+  y: 0.055020528368994015
+  z: 0.024551802757917202
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8903509458430638
+  y: 22.03105364663601
+  z: -101.29132921733667
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 17
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.25547637113586463
+  y: -0.015565630267348947
+  z: -0.004105079793526434
+  w: 0.9666812728430808
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -7.916160986563413
+  y: 0.11406600725566891
+  z: 0.061611746755684135
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.909691098217204
+  y: -54.26608986683068
+  z: -41.48965645497165
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 18
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3675993072388193
+  y: -0.013348526285113288
+  z: -0.005281247706048318
+  w: 0.9298734723532138
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.867096318697372
+  y: -0.05832355778842821
+  z: -0.05572940468564586
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.338208753526622
+  y: -102.32300423801978
+  z: 192.7795574797404
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 18
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.38995496555773174
+  y: -0.011719661543027162
+  z: -0.004947377794369353
+  w: 0.9207460550136203
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.528067864755833
+  y: 0.0046647878139882346
+  z: -0.01368986905429521
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 4.865235225156997
+  y: -47.510925466178804
+  z: 140.1037625394157
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 18
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4311753292931881
+  y: -0.009350978869608957
+  z: -0.0044693730978659675
+  w: 0.9022086340238622
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.901061865506284
+  y: 0.011701881236084483
+  z: 0.013841560831876692
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.045945327514002
+  y: -98.31111610523665
+  z: 110.4089797204208
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 18
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.36982877498593086
+  y: -0.011125183528227868
+  z: -0.004439943965652992
+  w: 0.9290227092926473
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.382485350763499
+  y: -0.010120771821558246
+  z: -0.024687790416125507
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.386236319686046
+  y: -71.6836469382397
+  z: 16.118507961536096
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 18
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3497039856814599
+  y: -0.01306431457969507
+  z: -0.004878121771409928
+  w: 0.9367564518118077
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 5.178583349633526
+  y: -0.02966583462081385
+  z: -0.026010044660423576
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.10565133777391161
+  y: -66.69912356992546
+  z: 131.14664131021885
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 18
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.26687844474971684
+  y: -0.01532609405450095
+  z: -0.004242833989756424
+  w: 0.9635989855374175
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.943333759197177
+  y: -0.03135931282607037
+  z: -0.01904343738160973
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.41074603872201276
+  y: -36.782950752694305
+  z: 2.6535427149980935
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 18
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2144903839543661
+  y: -0.017684512396926803
+  z: -0.0038810938313718012
+  w: 0.9765582779962819
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.034429373897906
+  y: 0.08797427045318774
+  z: 0.04961650098499878
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.295892592154464
+  y: 19.33800182811411
+  z: -1.6837017530098581
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 18
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.27982486737248463
+  y: -0.015444012434777235
+  z: -0.004504753808178704
+  w: 0.9599162636777302
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.328721341074042
+  y: -0.23509014894531632
+  z: -0.15380122174544314
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.17380444480043228
+  y: -127.95401571015837
+  z: 185.62752581715802
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 18
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3082198855311716
+  y: -0.013635878294002875
+  z: -0.004430207652715914
+  w: 0.9512070953511945
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 0.45284382278067475
+  y: 0.003967360972963318
+  z: -0.0006998104125161468
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 5.577279692047416
+  y: -1.10710438743601
+  z: -48.078815725581265
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 18
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3814129450631156
+  y: -0.011395347724760354
+  z: -0.004702377381195624
+  w: 0.9243225622235332
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.75320510430596
+  y: 0.04910706122223988
+  z: 0.048812640597811735
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -1.1762504341054785
+  y: 141.0481303938248
+  z: -125.43204868201403
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 19
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.42378453059519045
+  y: -0.009515566051076355
+  z: -0.004451762259883363
+  w: 0.9057021074524025
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.10839964326046177
+  y: 0.04700078766049086
+  z: 0.056793429408684946
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.760038189410553
+  y: 53.09988350697859
+  z: -56.73155145824894
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 19
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3792780074167835
+  y: -0.011105801565351316
+  z: -0.004553247470664978
+  w: 0.9252049082225062
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.2436697558399326
+  y: -0.02175534679176022
+  z: -0.021375869415005105
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.8567708816729286
+  y: -212.71845038552163
+  z: 178.2875989444011
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 19
+    nsecs: 200000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.31590999517526136
+  y: -0.013330281944455256
+  z: -0.004438836434098765
+  w: 0.9486851296730434
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.3486382265090695
+  y: -0.07430047696335171
+  z: -0.055677021724705116
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.5290675802388303
+  y: 120.49054705670298
+  z: -203.89738731608745
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 19
+    nsecs: 300000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3009655552148721
+  y: -0.015040583469350152
+  z: -0.0047481592177794525
+  w: 0.9535045728296997
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -0.14927322386526792
+  y: -0.05058445483962648
+  z: -0.036245670787587704
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -0.36983083019671037
+  y: -30.507782572655056
+  z: 51.817317712033784
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 19
+    nsecs: 400000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.2335903357636523
+  y: -0.017270561396842545
+  z: -0.004152438135391473
+  w: 0.972172844716614
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.6755089441287865
+  y: -0.23918276282914425
+  z: -0.12964217403617903
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.8041906067891849
+  y: -110.05503411326731
+  z: 156.85866185794015
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 19
+    nsecs: 500000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.30275660925557024
+  y: -0.015450261446330113
+  z: -0.004914210327266669
+  w: 0.9529299950731792
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 1.9343863144628388
+  y: -0.11680891480435743
+  z: -0.08381520442419813
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 1.0014141229449505
+  y: -153.6926510309995
+  z: 256.2652400000982
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 19
+    nsecs: 600000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.32100799125276014
+  y: -0.013614098410441804
+  z: -0.004615977477108925
+  w: 0.9469673799177399
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.1219809778312317
+  y: 0.005845602264412232
+  z: 0.006955223035265929
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 2.8097666679023443
+  y: 95.55636154233777
+  z: -93.51296710732791
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 19
+    nsecs: 700000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.35726734304355157
+  y: -0.011530512108664062
+  z: -0.004429830765824395
+  w: 0.9339204834912334
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.001523986000543
+  y: -0.08134213308532985
+  z: -0.06163269942606186
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 4.85951725414169
+  y: -78.46754987908123
+  z: 1.8879677627444744
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 19
+    nsecs: 800000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.4412443231197474
+  y: -0.00943197078187646
+  z: -0.004636023213132726
+  w: 0.8973254663334445
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.929289211040666
+  y: 0.06821660190043892
+  z: 0.08681240909888005
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -2.680561388161478
+  y: 219.9133651442432
+  z: -143.53380330174443
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 19
+    nsecs: 900000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.375099634915564
+  y: -0.011258534015124612
+  z: -0.004557425863190872
+  w: 0.9269049245567434
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 9.547977285972317
+  y: -0.06463511858440396
+  z: -0.06454550683826618
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 3.624945583802925
+  y: -210.95061493909813
+  z: 218.58578953530474
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 20
+    nsecs:         0
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3025998167716155
+  y: -0.013405159414905788
+  z: -0.004253902235606646
+  w: 0.9530139332174612
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.3426565322105555
+  y: 0.054008446025151736
+  z: 0.03882363804465509
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: -3.480938842777189
+  y: 172.41362402337657
+  z: -306.6056459847562
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 20
+    nsecs: 100000000
+  frame_id: "imu_link"
+orientation: 
+  x: -0.3003408417216425
+  y: -0.015167657569578094
+  z: -0.004778074720970669
+  w: 0.9536993713743068
+orientation_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -4.734425121164722
+  y: 0.009339357001160599
+  z: 0.008364920254692015
+angular_velocity_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+linear_acceleration: 
+  x: 0.6136195770669504
+  y: 186.37473350077903
+  z: -201.57237951974892
+linear_acceleration_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+---

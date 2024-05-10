@@ -1,0 +1,35 @@
+leg:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 500
+
+  # Trajectory Controllers ---------------------------------------
+  joint_trajectory_controller:
+    type: effort_controllers/JointTrajectoryController
+    joints:
+      - Revolute_4
+      - Revolute_6
+      - Revolute_8
+    gains:
+      Revolute_4: {p: 80000.0, d: 0.0, i: 0.0, i_clamp: 0.0}
+      Revolute_6: {p: 10000.0, d: 30.0, i: 80.0, i_clamp: 0.0}
+      Revolute_8: {p: 10000.0, d: 30.0, i: 80.0, i_clamp: 0.0}
+
+planer:
+  stages:
+    - stance
+    - push_down
+    - move_up
+  stage_duration: # sec
+    stance: 0.5
+    push_down: 0.3
+    move_up: 0.35
+  stage_position: # xyz meters from origin
+    stance: [0,0.1,-0.2]
+    push_down: [0,0.1,-0.25]
+    move_up: [0,0.1,0.015]
+  stage_order: # from stage -> to stage
+    stance: push_down
+    push_down: move_up
+    move_up: push_down

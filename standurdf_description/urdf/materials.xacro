@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<robot name="standurdf" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+<material name="silver">
+  <color rgba="0.700 0.700 0.700 1.000"/>
+</material>
+
+
+  <material name="bluegreen" >
+    <color rgba="0.058823529411764705 0.6078431372549019 0.5568627450980392 1.0" />
+  </material>
+
+
+</robot>
+
+
+
